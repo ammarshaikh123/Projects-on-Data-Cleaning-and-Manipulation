@@ -1,6 +1,6 @@
 # Data-Cleaning-and-Manipulation
 
-I have covered diverse topics under each project, You can see the description for each project below.
+This repo contains my projects on Data Cleaning and Manipulation, I have covered diverse topics under each project, You can see the description for each project below.
 
 1)[A New Era of Data Analysis in Baseball](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)
 
