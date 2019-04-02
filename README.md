@@ -9,6 +9,7 @@ In this notebook, we're going to wrangle, analyze, and visualize Statcast data t
 
 2)[A Visual History of Nobel Prize Winners](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 
+A very interesting project I worked on, over here we analyze the past Nobel Prize winners and try to draw various insights like 'How many male and female won the prize', 'How many of the winners were from USA', 'How many won the prize more than once' and 'How dominant were the winners when it came to country / gender', for answering this questions we used various data maniupulation techniques liek group by, value counts and also used Data Visualization techniques like Line plot, lmplot.
 
 3)[AB Testing with Cookie Cats](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/AB%20Testing%20with%20Cookie%20Cats)
 
