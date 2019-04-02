@@ -4,6 +4,8 @@ This repo contains my projects on Data Cleaning and Manipulation, I have covered
 
 1)[A New Era of Data Analysis in Baseball](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)
 
+In this notebook, we're going to wrangle, analyze, and visualize Statcast data to compare  two baseball players named Aaron Judge and Giancarlo Stanton, we will use data visualizations like scatter plot, KDE, 2D histogram and python 'def' method to create functions for our 2D histogram.
+
 
 2)[A Visual History of Nobel Prize Winners](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 
