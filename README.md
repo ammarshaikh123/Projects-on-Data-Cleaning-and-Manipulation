@@ -18,6 +18,7 @@ In this project we performed AB testing on a popular game called as Cookie Cats,
 
 4)[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 
+In this project we analyze the popular Discovery of Handwashing by Dr. Semmelweis and how it helped reduce number of death among infants and preganant women, we used visualizationa and various mathematical functions inorder to conclude how much the discovery helped reducec the death rate.
 
 5)[Exploring 67 years of LEGO](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exploring%2067%20years%20of%20LEGO)
 
