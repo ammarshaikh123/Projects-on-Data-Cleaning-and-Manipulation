@@ -13,6 +13,8 @@ A very interesting project I worked on, over here we analyze the past Nobel Priz
 
 3)[AB Testing with Cookie Cats](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/AB%20Testing%20with%20Cookie%20Cats)
 
+In this project we will perform AB testing on a popular game called as Cookie Cats, during the game players will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In this project we analyzed by AB-testing whether is it better to keep the gate at level 30 or level 40.
+
 
 4)[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 
