@@ -22,6 +22,7 @@ In this project we analyze the popular Discovery of Handwashing by Dr. Semmelwei
 
 5)[Exploring 67 years of LEGO](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exploring%2067%20years%20of%20LEGO)
 
+One of the first and basic project done by me, used simple data manipulation techniques to analyze colors of lego blocks and also the different lego sets build over the years.
 
 6)[Exploring the Bitcoin Cryptocurrency Market](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 
