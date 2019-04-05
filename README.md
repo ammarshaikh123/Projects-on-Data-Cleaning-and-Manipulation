@@ -26,6 +26,7 @@ One of the first and basic project done by me, used simple data manipulation tec
 
 6)[Exploring the Bitcoin Cryptocurrency Market](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 
+In this project we explore the data of Bitcoin Market, we see the market capitalization of top companies and analyze how volatile is the bitcoin market. We further analyzed to see at how much cost did the companies begin and how quickly their rate plunged.
 
 7)[Exploring the evolution of Linux](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exploring%20the%20evolution%20of%20Linux)
 
