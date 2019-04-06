@@ -39,6 +39,7 @@ We get some first insights into the work of the development efforts by
 
 8)[Exporing the Ames Iowa dataset](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exporing%20the%20Ames%20Iowa%20dataset)
 
+In this project we explored the breath alcohol tests from Ames Iowa. We analyzed what time of the day/moth were the tests mostly cocnducted. We also tried to find out if there was any pattern in the time of which the tests were conducted.
 
 9)[PROJECT WHICH DEBTS ARE WORTH THE BANK'S EFFORT](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/PROJECT%20WHICH%20DEBTS%20ARE%20WORTH%20THE%20BANK'S%20EFFORT)
 
