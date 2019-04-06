@@ -30,6 +30,12 @@ In this project we explore the data of Bitcoin Market, we see the market capital
 
 7)[Exploring the evolution of Linux](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exploring%20the%20evolution%20of%20Linux)
 
+In this notebook, we analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS.
+
+We get some first insights into the work of the development efforts by
+
+1) Identifying the TOP 10 contributors and
+2) Visualizing the commits over the years.
 
 8)[Exporing the Ames Iowa dataset](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/Exporing%20the%20Ames%20Iowa%20dataset)
 
