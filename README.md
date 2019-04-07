@@ -43,6 +43,7 @@ In this project we explored the breath alcohol tests from Ames Iowa. We analyzed
 
 9)[PROJECT WHICH DEBTS ARE WORTH THE BANK'S EFFORT](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/PROJECT%20WHICH%20DEBTS%20ARE%20WORTH%20THE%20BANK'S%20EFFORT)
 
+In this proejct we analysed different recovery proedures for loand taken by the bandk, we tried to find out if the money invested in making this procedures run is actually giving the return to the banks. We used Statistical Tests and Exploratory graphical analysis in this project.
 
 10)[TV, Halftime Shows, and the Big Game](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 
