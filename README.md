@@ -47,6 +47,7 @@ In this proejct we analysed different recovery procedures take by the bank for v
 
 10)[TV, Halftime Shows, and the Big Game](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 
+A very interesting project. I analysed all the performers that have performed in Super Bowl and we analysed various parameters like band or singers who have performed more than once, number of songs performed during halftime, how has the viewership evolved of super bowl and also how likely are user to stay till the end of the match.
 
 11)[The GitHub History of the Scala Language](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
 
