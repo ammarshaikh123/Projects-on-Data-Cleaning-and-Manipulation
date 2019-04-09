@@ -51,7 +51,9 @@ A very interesting project. I analysed all the performers that have performed in
 
 11)[The GitHub History of the Scala Language](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
 
+Scala is an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- publicly available.
 
+In this project we read, cleaned, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). We found out who had the most influence on its development and who were the experts.
 
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
