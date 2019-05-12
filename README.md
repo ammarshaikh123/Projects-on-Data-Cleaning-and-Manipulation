@@ -57,6 +57,8 @@ In this project we read, cleaned, and visualized the real world project reposito
 
 12) [Suicide Analytics](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/Suicide%20Analytics.ipynb)
 
+In this project I used data from the Government of India website regarding the suicide rates and tried to analyse differenet parameters which I have explained in my blog [here]()
+
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
 ![alt text](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/project_img.JPG)
