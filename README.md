@@ -59,6 +59,11 @@ In this project we read, cleaned, and visualized the real world project reposito
 
 In this project I used data from the Government of India website regarding the suicide rates and tried to analyse differenet parameters which I have explained in my blog [here](https://medium.com/@shaikhammar.7/suicide-analytics-c12f979fc078). I have used web scrapping to as well as data manipulation  to bring out the insights for this project
 
+13) [World Cup History](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/World%20Cup%20History.ipynb)
+
+
+
+
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
 ![alt text](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/project_img.JPG)
