@@ -61,6 +61,7 @@ In this project I used data from the Government of India website regarding the s
 
 13) [World Cup History](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/World%20Cup%20History.ipynb)
 
+One of the project which enjoyed throughly working on. I used web scraping to get raw data from a cricket stats website. Later I formatted that data and tried to analyse it and gathered some really cool insights which you can read [here].(https://medium.com/@shaikhammar.7/analyzing-world-cup-history-25c963ef6b18)
 
 
 
