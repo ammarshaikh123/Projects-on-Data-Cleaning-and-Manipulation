@@ -47,13 +47,13 @@ In this proejct we analysed different recovery procedures take by the bank for v
 
 10)[TV, Halftime Shows, and the Big Game](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 
-A very interesting project. I analysed all the performers that have performed in Super Bowl and we analysed various parameters like band or singers who have performed more than once, number of songs performed during halftime, how has the viewership evolved of super bowl and also how likely are user to stay till the end of the match.
+A very interesting project. I analysed all the performers that have performed in Super Bowl and analysed various parameters like band or singers who have performed more than once, number of songs performed during halftime, how has the viewership evolved of super bowl and also how likely are user to stay till the end of the match.
 
 11)[The GitHub History of the Scala Language](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
 
 Scala is an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- publicly available.
 
-In this project we read, cleaned, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). We found out who had the most influence on its development and who were the experts.
+In this project I read, cleaned, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). We found out who had the most influence on its development and who were the experts.
 
 12) [Suicide Analytics](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/Suicide%20Analytics.ipynb)
 
@@ -61,7 +61,7 @@ In this project I used data from the Government of India website regarding the s
 
 13) [World Cup History](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/World%20Cup%20History.ipynb)
 
-One of the project which enjoyed throughly working on. I used web scraping to get raw data from a cricket stats website. Later I formatted that data and tried to analyse it and gathered some really cool insights which you can read [here](https://medium.com/@shaikhammar.7/analyzing-world-cup-history-25c963ef6b18)
+One of the project which I enjoyed throughly working on. I used web scraping to get raw data from a cricket stats website. Later I formatted that data and tried to analyse it and gathered some really cool insights which you can read [here](https://medium.com/@shaikhammar.7/analyzing-world-cup-history-25c963ef6b18)
 
 
 
