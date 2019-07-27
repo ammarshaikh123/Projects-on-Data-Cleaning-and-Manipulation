@@ -9,7 +9,7 @@ In this notebook, we're going to wrangle, analyze, and visualize Statcast data t
 
 2)[A Visual History of Nobel Prize Winners](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 
-A very interesting project I worked on, over here we analyze the past Nobel Prize winners and try to draw various insights like 'How many male and female won the prize', 'How many of the winners were from USA', 'How many won the prize more than once' and 'How dominant were the winners when it came to country / gender', for answering this questions we used various data maniupulation techniques liek group by, value counts and also used Data Visualization techniques like Line plot, lmplot.
+A very interesting project I worked on, over here I analyzed the past Nobel Prize winners and tried to draw insights like 'How many males and females won the prize', 'How many of the winners were from USA', 'How many won the prize more than once' and 'How dominant were the winners when it came to country / gender', for answering this questions we used various data maniupulation techniques like group by, value counts and also used Data Visualization techniques like Line plot, lmplot.
 
 3)[AB Testing with Cookie Cats](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/tree/master/AB%20Testing%20with%20Cookie%20Cats)
 
@@ -61,7 +61,7 @@ In this project I used data from the Government of India website regarding the s
 
 13) [World Cup History](https://github.com/ammarshaikh123/Projects-on-Data-Cleaning-and-Manipulation/blob/master/World%20Cup%20History.ipynb)
 
-One of the project which I enjoyed throughly working on. I used web scraping to get raw data from a cricket stats website. Later I formatted that data and tried to analyse it and gathered some really cool insights which you can read [here](https://medium.com/@shaikhammar.7/analyzing-world-cup-history-25c963ef6b18)
+One of the project which I enjoyed working on throughly. I used web scraping to get raw data from a cricket stats website. Later I formatted that data and tried to analyse it and gathered some really cool insights which you can read [here](https://medium.com/@shaikhammar.7/analyzing-world-cup-history-25c963ef6b18)
 
 
 
